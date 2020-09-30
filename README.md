@@ -15,4 +15,4 @@ Written in python 2.7, make sure to use the appropriate interrupter. Inject what
 | **Author**                           | @bryanwei   |
 
 ## License
-See the [LICENSE] (https://github.com/bryanweielio/MITM-injection/blob/master/LICENSE) file.
+See the [LICENSE](https://github.com/bryanweielio/MITM-injection/blob/master/LICENSE) file.
