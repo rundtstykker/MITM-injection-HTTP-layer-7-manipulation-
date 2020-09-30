@@ -4,6 +4,9 @@ MITM-injection is a small-sized Python program written in 2.7 to understand the 
 ## Getting Started
 To run this program, you should already be MITM from your target. You can achieve the MITM by launching an ARP spoof attack on the network. 
 
+## Running the program
+Written in python 2.7, make sure to use the appropriate interrupter. Inject whatever code you wish by modifying the appropriate line. The sameple code is a BEEF hook command within the XXS beef framework. 
+
 
 ## Credits
 
@@ -12,4 +15,4 @@ To run this program, you should already be MITM from your target. You can achiev
 | **Author**                           | @bryanwei   |
 
 ## License
-See the [LICENSE] file.
+See the [LICENSE] (https://github.com/bryanweielio/MITM-injection/blob/master/LICENSE) file.
