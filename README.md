@@ -7,6 +7,8 @@ To run this program, you should already be MITM from your target. You can achiev
 ## Running the program
 Written in python 2.7, make sure to use the appropriate interrupter. Inject whatever code you wish by modifying the appropriate line. The sameple code is a BEEF hook command within the XXS beef framework. 
 
+## Attention
+Please do not use this program where unauthorized.
 
 ## Credits
 
